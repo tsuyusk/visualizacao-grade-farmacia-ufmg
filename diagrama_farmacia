@@ -1,0 +1,158 @@
+digraph {
+	graph [dpi=300 ordering=out ranksep="1.0 equally" ratio=fill splines=ortho]
+	node [shape=box]
+	{
+		rank=same
+		"BIOQUIMICA CELULAR F" [label="BIOQUIMICA CELULAR F" fillcolor="#fac7b4" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"FARMACIA E SOCIEDADE" [label="FARMACIA E SOCIEDADE" fillcolor="#49cccc" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"BIOFISICA B" [label="BIOFISICA B" fillcolor="#aee1d3" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		MATEMATICA [label=MATEMATICA fillcolor="#e6b250" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"ANATOMIA HUMANA BASICA" [label="ANATOMIA HUMANA BASICA" fillcolor="#83ad92" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"CITOLOGIA E HISTOLOGIA F" [label="CITOLOGIA E HISTOLOGIA F" fillcolor="#83ad92" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"QUIMICA GERAL F" [label="QUIMICA GERAL F" fillcolor="#fca89d" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"QUIMICA GERAL EXPERIMENTAL F" [label="QUIMICA GERAL EXPERIMENTAL F" fillcolor="#fca89d" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+	}
+	{
+		rank=same
+		"ELEMENTOS DE FÍSICO-QUÍMICA" [label="ELEMENTOS DE FÍSICO-QUÍMICA" fillcolor="#fca89d" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"GENÉTICA F" [label="GENÉTICA F" fillcolor="#afc7b9" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"IMUNOLOGIA BASICA" [label="IMUNOLOGIA BASICA" fillcolor="#fac7b4" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"FISIOLOGIA F" [label="FISIOLOGIA F" fillcolor="#aee1d3" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"FUNDAMENTOS DE CIÊNCIAS FARMACÊUTICAS" [label="FUNDAMENTOS DE CIÊNCIAS FARMACÊUTICAS" fillcolor="#a892ff" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"QUÍMICA INORGÂNICA F" [label="QUÍMICA INORGÂNICA F" fillcolor="#fca89d" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"QUÍMICA INORGÂNICA EXPERIMENTAL F" [label="QUÍMICA INORGÂNICA EXPERIMENTAL F" fillcolor="#fca89d" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+	}
+	{
+		rank=same
+		"MICROBIOLOGIA BÁSICA F" [label="MICROBIOLOGIA BÁSICA F" fillcolor="#dd7fdc" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"PATOLOGIA GERAL F" [label="PATOLOGIA GERAL F" fillcolor="#ffdef4" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"PARASITOLOGIA HUMANA F" [label="PARASITOLOGIA HUMANA F" fillcolor="#5d77ce" fontcolor="#FFFFFF" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"QUIMICA ORGANICA I F" [label="QUIMICA ORGANICA I F" fillcolor="#fca89d" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"QUIMICA ANALITICA F" [label="QUIMICA ANALITICA F" fillcolor="#fca89d" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+	}
+	{
+		rank=same
+		"BOTÂNICA F" [label="BOTÂNICA F" fillcolor="#d1e751" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"BIOESTATISTICA BASICA F" [label="BIOESTATISTICA BASICA F" fillcolor="#998b82" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"FARMACOLOGIA BASICA F" [label="FARMACOLOGIA BASICA F" fillcolor="#ffe1c9" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"QUIMICA ORGANICA EXPERIMENTAL F" [label="QUIMICA ORGANICA EXPERIMENTAL F" fillcolor="#fca89d" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"QUÍMICA ORGÂNICA II F" [label="QUÍMICA ORGÂNICA II F" fillcolor="#fca89d" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"QUÍMICA ANALÍTICA INSTRUMENTAL F" [label="QUÍMICA ANALÍTICA INSTRUMENTAL F" fillcolor="#fca89d" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+	}
+	{
+		rank=same
+		"ESTUDO C. L. DOENCAS HUMANAS A" [label="ESTUDO C. L. DOENCAS HUMANAS A" fillcolor="#1E6D2D" fontcolor="#FFFFFF" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		BROMATOLOGIA [label=BROMATOLOGIA fillcolor="#92a6ef" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		EPIDEMIOLOGIA [label=EPIDEMIOLOGIA fillcolor="#49cccc" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		FARMACOCINETICA [label=FARMACOCINETICA fillcolor="#a892ff" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"QUIMICA FARMACEUTICA E MEDICINAL I" [label="QUIMICA FARMACEUTICA E MEDICINAL I" fillcolor="#a892ff" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"FARMACOGNOSIA I" [label="FARMACOGNOSIA I" fillcolor="#a892ff" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+	}
+	{
+		rank=same
+		"TOXICOLOGIA GERAL" [label="TOXICOLOGIA GERAL" fillcolor="#1E6D2D" fontcolor="#FFFFFF" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"OPERACOES UNITARIAS NA AREA FARMACEUTICA" [label="OPERACOES UNITARIAS NA AREA FARMACEUTICA" fillcolor="#92a6ef" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"POLITICAS DE SAUDE" [label="POLITICAS DE SAUDE" fillcolor="#49cccc" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"FARMACOGNOSIA II" [label="FARMACOGNOSIA II" fillcolor="#a892ff" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"FARMACOTERAPIA I" [label="FARMACOTERAPIA I" fillcolor="#a892ff" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"FARMACOTECNICA I" [label="FARMACOTECNICA I" fillcolor="#a892ff" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+	}
+	{
+		rank=same
+		"RÁDIOFARMÁCIA I" [label="RÁDIOFARMÁCIA I" fillcolor="#1E6D2D" fontcolor="#FFFFFF" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"ETICA E LEGISLACAO FARMACEUTICA" [label="ETICA E LEGISLACAO FARMACEUTICA" fillcolor="#49cccc" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		FARMACOEPIDEMIOLOGIA [label=FARMACOEPIDEMIOLOGIA fillcolor="#49cccc" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"ANALISES FARMACOPEICAS" [label="ANALISES FARMACOPEICAS" fillcolor="#a892ff" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"INTRODUCAO A FARMACIA HOSPITALAR" [label="INTRODUCAO A FARMACIA HOSPITALAR" fillcolor="#a892ff" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"FARMACOTERAPIA II" [label="FARMACOTERAPIA II" fillcolor="#a892ff" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"FARMACOTECNICA II" [label="FARMACOTECNICA II" fillcolor="#a892ff" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+	}
+	{
+		rank=same
+		"PRATICAS EM FARMACIA COMUNITARIA" [label="PRATICAS EM FARMACIA COMUNITARIA" fillcolor="#49cccc" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS I" [label="MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS I" fillcolor="#49cccc" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+	}
+	{
+		rank=same
+		"MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS II" [label="MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS II" fillcolor="#eecb68" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"ESTÁGIO EM FARMÁCIA" [label="ESTÁGIO EM FARMÁCIA" fillcolor="#49cccc" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+	}
+	{
+		rank=sink
+		"ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I" [label="ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I" fillcolor="#eecb68" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+		"ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II" [label="ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II" fillcolor="#eecb68" fontcolor="#000000" fontname="Helvetica-Bold" fontweight=bold style=filled]
+	}
+	MATEMATICA -> "ELEMENTOS DE FÍSICO-QUÍMICA"
+	"QUIMICA GERAL F" -> "ELEMENTOS DE FÍSICO-QUÍMICA"
+	"QUIMICA GERAL EXPERIMENTAL F" -> "ELEMENTOS DE FÍSICO-QUÍMICA"
+	"BIOQUIMICA CELULAR F" -> "IMUNOLOGIA BASICA"
+	"CITOLOGIA E HISTOLOGIA F" -> "FISIOLOGIA F"
+	"BIOFISICA B" -> "FISIOLOGIA F"
+	"ANATOMIA HUMANA BASICA" -> "FISIOLOGIA F"
+	"QUIMICA GERAL F" -> "QUÍMICA INORGÂNICA F"
+	"QUIMICA GERAL EXPERIMENTAL F" -> "QUÍMICA INORGÂNICA F"
+	"QUIMICA GERAL F" -> "QUÍMICA INORGÂNICA EXPERIMENTAL F"
+	"QUIMICA GERAL EXPERIMENTAL F" -> "QUÍMICA INORGÂNICA EXPERIMENTAL F"
+	"BIOQUIMICA CELULAR F" -> "MICROBIOLOGIA BÁSICA F"
+	"IMUNOLOGIA BASICA" -> "PATOLOGIA GERAL F"
+	"FISIOLOGIA F" -> "PATOLOGIA GERAL F"
+	"CITOLOGIA E HISTOLOGIA F" -> "PARASITOLOGIA HUMANA F"
+	"IMUNOLOGIA BASICA" -> "PARASITOLOGIA HUMANA F"
+	"QUIMICA GERAL F" -> "QUIMICA ORGANICA I F"
+	"QUIMICA GERAL EXPERIMENTAL F" -> "QUIMICA ORGANICA I F"
+	"QUÍMICA INORGÂNICA F" -> "QUIMICA ANALITICA F"
+	"QUÍMICA INORGÂNICA EXPERIMENTAL F" -> "QUIMICA ANALITICA F"
+	"BIOQUIMICA CELULAR F" -> "FARMACOLOGIA BASICA F"
+	"BIOFISICA B" -> "FARMACOLOGIA BASICA F"
+	"FISIOLOGIA F" -> "FARMACOLOGIA BASICA F"
+	"QUIMICA ORGANICA I F" -> "QUIMICA ORGANICA EXPERIMENTAL F"
+	"QUIMICA ORGANICA I F" -> "QUÍMICA ORGÂNICA II F"
+	"QUIMICA ANALITICA F" -> "QUÍMICA ANALÍTICA INSTRUMENTAL F"
+	"PATOLOGIA GERAL F" -> "ESTUDO C. L. DOENCAS HUMANAS A"
+	"QUIMICA ANALITICA F" -> BROMATOLOGIA
+	"FARMACIA E SOCIEDADE" -> EPIDEMIOLOGIA
+	"BIOESTATISTICA BASICA F" -> EPIDEMIOLOGIA
+	"FARMACOLOGIA BASICA F" -> FARMACOCINETICA
+	"ELEMENTOS DE FÍSICO-QUÍMICA" -> FARMACOCINETICA
+	"FARMACOLOGIA BASICA F" -> "QUIMICA FARMACEUTICA E MEDICINAL I"
+	"QUIMICA ORGANICA EXPERIMENTAL F" -> "QUIMICA FARMACEUTICA E MEDICINAL I"
+	"QUÍMICA ORGÂNICA II F" -> "QUIMICA FARMACEUTICA E MEDICINAL I"
+	"BOTÂNICA F" -> "FARMACOGNOSIA I"
+	"QUIMICA ORGANICA EXPERIMENTAL F" -> "FARMACOGNOSIA I"
+	"QUÍMICA ORGÂNICA II F" -> "FARMACOGNOSIA I"
+	FARMACOCINETICA -> "TOXICOLOGIA GERAL"
+	"ELEMENTOS DE FÍSICO-QUÍMICA" -> "OPERACOES UNITARIAS NA AREA FARMACEUTICA"
+	EPIDEMIOLOGIA -> "POLITICAS DE SAUDE"
+	"FARMACOGNOSIA I" -> "FARMACOGNOSIA II"
+	"GENÉTICA F" -> "FARMACOTERAPIA I"
+	FARMACOCINETICA -> "FARMACOTERAPIA I"
+	"FARMACOLOGIA BASICA F" -> "FARMACOTECNICA I"
+	"ELEMENTOS DE FÍSICO-QUÍMICA" -> "FARMACOTECNICA I"
+	"FISIOLOGIA F" -> "RÁDIOFARMÁCIA I"
+	"GENÉTICA F" -> "RÁDIOFARMÁCIA I"
+	"QUÍMICA INORGÂNICA F" -> "RÁDIOFARMÁCIA I"
+	EPIDEMIOLOGIA -> "ETICA E LEGISLACAO FARMACEUTICA"
+	EPIDEMIOLOGIA -> FARMACOEPIDEMIOLOGIA
+	"FARMACOTERAPIA I" -> FARMACOEPIDEMIOLOGIA
+	"QUÍMICA ANALÍTICA INSTRUMENTAL F" -> "ANALISES FARMACOPEICAS"
+	"FARMACOTERAPIA I" -> "INTRODUCAO A FARMACIA HOSPITALAR"
+	"PARASITOLOGIA HUMANA F" -> "FARMACOTERAPIA II"
+	"MICROBIOLOGIA BÁSICA F" -> "FARMACOTERAPIA II"
+	"FARMACOTECNICA I" -> "FARMACOTECNICA II"
+	"FARMACOTERAPIA I" -> "PRATICAS EM FARMACIA COMUNITARIA"
+	"FARMACOTERAPIA II" -> "PRATICAS EM FARMACIA COMUNITARIA"
+	"ETICA E LEGISLACAO FARMACEUTICA" -> "PRATICAS EM FARMACIA COMUNITARIA"
+	FARMACOEPIDEMIOLOGIA -> "MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS I"
+	"FARMACOGNOSIA II" -> "MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS II"
+	"MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS I" -> "MONOGRAFIA EM CIÊNCIAS FARMACÊUTICAS II"
+	"FARMACOTECNICA II" -> "ESTÁGIO EM FARMÁCIA"
+	"PRATICAS EM FARMACIA COMUNITARIA" -> "ESTÁGIO EM FARMÁCIA"
+	"ANALISES FARMACOPEICAS" -> "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I"
+	"FARMACOTECNICA II" -> "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I"
+	"ESTUDO C. L. DOENCAS HUMANAS A" -> "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I"
+	"PRATICAS EM FARMACIA COMUNITARIA" -> "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS I"
+	"ANALISES FARMACOPEICAS" -> "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II"
+	"FARMACOTECNICA II" -> "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II"
+	"ESTUDO C. L. DOENCAS HUMANAS A" -> "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II"
+	"PRATICAS EM FARMACIA COMUNITARIA" -> "ESTÁGIO EM CIÊNCIAS FARMACÊUTICAS II"
+}
